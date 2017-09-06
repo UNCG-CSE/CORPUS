@@ -1,0 +1,2 @@
+# CORPUS
+In this project, we are performing the text analytics on the Amazon product reviews dataset. A brief introduction to the dataset, this dataset is taken from ‘The Database and Information Systems Laboratory at The University of Illinois at Urbana-Champaign’, this dataset contains Amazon product reviews under six categories (camera, mobile, tv, laptop, tablet, and video surveillance system). 
